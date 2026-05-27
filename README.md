@@ -180,6 +180,8 @@ JOIN order_details
     ON order_details.pizza_id = pizzas.pizza_id
 GROUP BY pizza_types.category
 ORDER BY revenue_percentage DESC;
+```
+---
 
 ## 📁 Project Files
 
@@ -193,6 +195,8 @@ Pizza-Sales-SQL-Analysis/
 ├── PizzaSalesSQL_Script.sql
 ├── PIZZA SALES SQL Project Results and Insights.pptx
 └── README.md
+```
+--- 
 
 ## 🎯 Project Objective
 
